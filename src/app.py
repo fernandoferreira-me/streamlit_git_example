@@ -15,3 +15,7 @@ def main():
     df["target"] = iris.target
 
     st.write(df)
+    
+    
+if __name__ == "__main__":
+    main()
