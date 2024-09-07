@@ -2,3 +2,8 @@ streamlit
 pandas
 scikit-learn
 seaborn
+docx2txt==0.8
+pdfplumber
+wordcloud
+
+Pillow
